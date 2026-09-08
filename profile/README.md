@@ -1,6 +1,8 @@
-<h1 align="center">IG Digital Lab</h1>
+<h1 align="center">IG Digital Lab — Sacramento, CA</h1>
 
-<p align="center"><b>We build AI software that does the work — self-hosted, agent-native, shipped.</b></p>
+<p align="center"><b>Independent software and AI automation agency.</b></p>
+
+<p align="center">We build AI software that does the work — self-hosted, agent-native, shipped.</p>
 
 <p align="center">A product studio by <b>IGGO, LLC</b> &nbsp;·&nbsp; <a href="https://igdigi.com">igdigi.com</a></p>
 
