@@ -2,7 +2,7 @@
   <a href="https://igdigi.com"><img src="https://raw.githubusercontent.com/igdigitallab/.github/main/profile/banner.png" alt="IG Digital Lab — We build the AI systems businesses actually run on." width="100%"></a>
 </p>
 
-IG Digital Lab is a Sacramento AI implementation company. We integrate AI into how a business already works, and build the workflow around it end to end — custom software and integrations, AI on calls and chat, phone → forms → CRM → calendar automation, websites, servers and support, connected devices, and visibility in AI search.
+IG Digital Lab is a Sacramento AI implementation company. We integrate AI into how a business already works, and build the workflow around it end to end — custom software and integrations, AI on calls and chat, phone → forms → CRM → calendar automation, websites, servers and support, and connected devices.
 
 Some of what we build is open. It lives here.
 
@@ -43,7 +43,7 @@ A self-hosted, mobile-first cockpit where every kanban card *is* a Claude agent 
 
 | | |
 |---|---|
-| **[instagram-to-website](https://github.com/igdigitallab/instagram-to-website)** | Turns a professional's Instagram account into a real website: verified facts from posts and highlights, a converting design, SEO/AEO. |
+| **[instagram-to-website](https://github.com/igdigitallab/instagram-to-website)** | Turns a professional's Instagram account into a real website: verified facts from posts and highlights, a clean design, and structured data. |
 | **[claude-skills](https://github.com/igdigitallab/claude-skills)** | Agent Skills for Claude Code we use in production: client-site pipeline, scroll-driven WebGL particle morph, songwriter. |
 
 ---
